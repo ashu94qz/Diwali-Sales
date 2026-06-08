@@ -106,8 +106,7 @@ To build a career in Data Analytics where I can apply analytical thinking, stati
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add Your LinkedIn URL]
-- GitHub: [Add Your GitHub URL]
+- LinkedIn: https://www.linkedin.com/in/ashutosh-parihar-5686103a3/
 - Email: ash.p7694@gmail.com
 
 ---
